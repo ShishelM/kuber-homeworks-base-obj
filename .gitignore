@@ -1,0 +1,17 @@
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Настройки популярных редакторов (VS Code, JetBrains, Vim)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Логи и временные файлы
+*.log
+kubeconfig
+.kube/
